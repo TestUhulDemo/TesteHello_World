@@ -6,6 +6,7 @@ package src;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("Nova Linha");
+        System.out.println("Nova Linha1");
+        System.out.println("Nova Linha2");
     }
 }
