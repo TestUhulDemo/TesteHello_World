@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Nova Linha2");
         System.out.println("Dev Branch added Line ");
         System.out.println("Try error line");
+        System.out.println(" Error note message");
     }
 }
